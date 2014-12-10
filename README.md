@@ -34,3 +34,6 @@ page 1090 explaination of turn on/off
 
 
 Equations? 
+
+##Execution
+
