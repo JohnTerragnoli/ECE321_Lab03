@@ -14,19 +14,22 @@ Done:
 Talk about how transistors work.  
 Difference between PMOS and NMOS.
 pull up/down networks
-
-
-Add in: 
 VTC
 noise margins
-
 maximum useable frequency
 power dissipation
 capacitor load sizes effects
+
+
+Add in: 
+
+
 frequency really low (current meter)
 sinusoidal frequency instead of binary?
 effects on ground when switching.  
 large capacitor between Vdd and ground. 
+maximum useable frequency explain more? 
+page 1090 explaination of turn on/off
 
 
 
